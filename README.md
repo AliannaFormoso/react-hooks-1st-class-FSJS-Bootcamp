@@ -3,4 +3,4 @@ This is the first class/practice on React Hooks as part of the FS JS Bootcamp wi
 
 This site was deployed on Netlify
 
-You can check this 🔗 [link](react-hooks-1st-class-bootcamp.netlify.app)
+You can check this 🔗 [link](https://react-hooks-1st-class-bootcamp.netlify.app)
